@@ -1,0 +1,492 @@
+[
+  {
+    "slug": "ifc",
+    "titleEn": "The Iranian Filtering Committee",
+    "titleFa": "کارگروه تعیین مصادیق محتوای مجرمانه",
+    "category": "Government",
+    "leakType": "email",
+    "totalRecords": 562634,
+    "dateRange": {
+      "earliest": "2014-05-01",
+      "latest": "2020-08-04"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/ifc//73ebd4138d7977170eec29d9490995bf/IMG-20171114-WA0006.jpg",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/ifc"
+  },
+  {
+    "slug": "sadaf",
+    "titleEn": "Sadaf Exchange",
+    "titleFa": "صرافی صدف",
+    "category": "Economy",
+    "leakType": "email+ocr",
+    "totalRecords": 27461,
+    "dateRange": {
+      "earliest": "2022-10-27",
+      "latest": "2023-05-20"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/sadaf//d2abbb2cdf1abc3857d190d4dde462f2/174.602%20USD-SHELL%20EX-%20CONFIRM.pdf",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sadaf"
+  },
+  {
+    "slug": "sej",
+    "titleEn": "Sepehr Energy Jahan",
+    "titleFa": "سپهر انرژی جهان",
+    "category": "Economy",
+    "leakType": "email+ocr",
+    "totalRecords": 9596,
+    "dateRange": {
+      "earliest": "~2023",
+      "latest": "2024-12-16"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sej"
+  },
+  {
+    "slug": "sej2",
+    "titleEn": "Sepehr Energy Jahan – AFGS Oil Command",
+    "titleFa": "سپهر انرژی جهان - شهید ابو الفتحی",
+    "category": "Economy",
+    "leakType": "email+ocr",
+    "totalRecords": 5936,
+    "dateRange": {
+      "earliest": "2024-06-11",
+      "latest": "2024-12-04"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sej2"
+  },
+  {
+    "slug": "radin",
+    "titleEn": "Radin Exchange",
+    "titleFa": "صرافی رادين",
+    "category": "Economy",
+    "leakType": "ocr",
+    "totalRecords": 31114,
+    "dateRange": {
+      "earliest": "~2024-07-07",
+      "latest": null
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/radin"
+  },
+  {
+    "slug": "amin",
+    "titleEn": "Amin Exchange House (Ebrahimi and Associates Guarantee Society)",
+    "titleFa": "شركت تضامني ابراهيمي و شركا (صرافي امين)",
+    "category": "Economy",
+    "leakType": "table",
+    "totalRecords": 32314,
+    "dateRange": {
+      "earliest": "~2022-12-20",
+      "latest": null
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": [
+      "https://wikiran.org/attachments/leaks/amin/amin.zip (5.12 GB raw archive)"
+    ],
+    "sourceUrl": "https://wikiran.org/leaks/amin"
+  },
+  {
+    "slug": "amin2025",
+    "titleEn": "Amin Exchange 2025",
+    "titleFa": "صرافی امین 2025",
+    "category": "Economy",
+    "leakType": "email+ocr",
+    "totalRecords": 15406,
+    "dateRange": {
+      "earliest": "2025-02-08",
+      "latest": "~2025-02"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/amin2025//1b6c8eb486c268c6a035cdece4be54a0/7y3.png",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/amin2025"
+  },
+  {
+    "slug": "pedram",
+    "titleEn": "Pedram Pirouzan Exchange House (Opal Exchange)",
+    "titleFa": "شرکت تضامنی پدرام پیروزان وشرکا",
+    "category": "Economy",
+    "leakType": "ocr",
+    "totalRecords": 4654,
+    "dateRange": {
+      "earliest": "2024-04-28",
+      "latest": null
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/pedram"
+  },
+  {
+    "slug": "sepah",
+    "titleEn": "Bank Sepah",
+    "titleFa": "بانك سپه",
+    "category": "Economy",
+    "leakType": "email+ocr",
+    "totalRecords": 8734,
+    "dateRange": {
+      "earliest": "2023-11-30",
+      "latest": "~2023-12"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sepah"
+  },
+  {
+    "slug": "tejarat",
+    "titleEn": "Tejarat Bank and Exchange",
+    "titleFa": "بانك و صرافي تجارت",
+    "category": "Economy",
+    "leakType": "ocr",
+    "totalRecords": 348,
+    "dateRange": {
+      "earliest": "~2024-05-25",
+      "latest": "~2024"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/tejarat"
+  },
+  {
+    "slug": "caspian-airlines",
+    "titleEn": "Caspian Airlines",
+    "titleFa": "هواپیمایی کاسپین",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 339,
+    "dateRange": {
+      "earliest": "2019-08-17",
+      "latest": "2021-12-26"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/caspian-airlines//41ce3a1198772dae61e393ef3729949c/IMG-20190925-WA0018.jpg",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/caspian-airlines"
+  },
+  {
+    "slug": "sahara-thunder",
+    "titleEn": "Sahara Thunder",
+    "titleFa": "تندر صحرا",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 10685,
+    "dateRange": {
+      "earliest": "2019-08-14",
+      "latest": "2020-10-12"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/sahara-thunder//2be57bef42e6640966012d297f9432a3/%D9%85%D8%B4%DA%A9%D9%88%DA%A9%20%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84.xlsx",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sahara-thunder"
+  },
+  {
+    "slug": "triliance",
+    "titleEn": "Triliance Petrochemical Co. Ltd.",
+    "titleFa": "تریلیانس پتروشیمی",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 6687,
+    "dateRange": {
+      "earliest": "2022-10-30",
+      "latest": "2023-02-17"
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/triliance"
+  },
+  {
+    "slug": "steel-companies",
+    "titleEn": "Iranian Steel Companies MSC & KSC",
+    "titleFa": "شرکت‌های فولاد ایران",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 94064,
+    "dateRange": {
+      "earliest": "2016-04-18",
+      "latest": "2021-12-16"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/steel-companies//cdccd7f9256e61fbe306bb5ead464774873ada4a/image001.png",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/steel-companies"
+  },
+  {
+    "slug": "pcc",
+    "titleEn": "Petrochemical Commercial Company",
+    "titleFa": "شرکت بازرگانی پتروشیمی",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 48842,
+    "dateRange": {
+      "earliest": "2019-04-11",
+      "latest": "2021-07-18"
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/pcc//ec5c8b17f2a760f0b9f56a640abb13852f005402/Cargo%20Update%202021-3-8.xlsx",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/pcc"
+  },
+  {
+    "slug": "saf",
+    "titleEn": "Safiran Airport Services",
+    "titleFa": "خدمات فرودگاهی سفیران",
+    "category": "International Affairs",
+    "leakType": "email",
+    "totalRecords": 2171,
+    "dateRange": {
+      "earliest": "2022-06-10",
+      "latest": "2022-07-04"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": true,
+    "attachmentHashFormat": "md5",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/saf//ee1876b133aaf1b1ecd6db5546fef92a/image001.jpg",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/saf"
+  },
+  {
+    "slug": "asbgroup",
+    "titleEn": "ASB Group",
+    "titleFa": "گروه ASB",
+    "category": "International Affairs",
+    "leakType": "email",
+    "totalRecords": 215444,
+    "dateRange": {
+      "earliest": "2021-03-23",
+      "latest": "2022-07-19"
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/asbgroup//5def9f3d7afcacae7549130125f85a6979e26ed0/image001.jpg",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/asbgroup"
+  },
+  {
+    "slug": "pgpicc",
+    "titleEn": "The Persian Gulf Petrochemical Industry Commercial Company (PGPICC)",
+    "titleFa": "شرکت تجارت صنعت پتروشیمی خلیج فارس",
+    "category": "Economy",
+    "leakType": "email",
+    "totalRecords": 27702,
+    "dateRange": {
+      "earliest": null,
+      "latest": null
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": [
+      "https://wikiran.org/files/leaks/pgpicc/transactions.csv"
+    ],
+    "sourceUrl": "https://wikiran.org/leaks/pgpicc"
+  },
+  {
+    "slug": "exchange-zg",
+    "titleEn": "Berelian Exchange House (ZARRINGHALAM Exchange)",
+    "titleFa": "صرافی زرین قلم",
+    "category": "Economy",
+    "leakType": "ocr",
+    "totalRecords": 1364,
+    "dateRange": {
+      "earliest": "~2019-06-11",
+      "latest": null
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/exchange-zg"
+  },
+  {
+    "slug": "transactions",
+    "titleEn": "Tahayyori Exchange (Arz-Iran)",
+    "titleFa": "صرافى تحيرى و شركاء",
+    "category": "Economy",
+    "leakType": "table",
+    "totalRecords": 4643,
+    "dateRange": {
+      "earliest": "~2021",
+      "latest": "~2022"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/transactions"
+  },
+  {
+    "slug": "mefa",
+    "titleEn": "Ministry of Economic Affairs & Finance",
+    "titleFa": "وزارت امور اقتصادی و دارایی",
+    "category": "Government",
+    "leakType": "email",
+    "totalRecords": 23973,
+    "dateRange": {
+      "earliest": "2020-06-01",
+      "latest": "2020-11-07"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": "https://wikiran.org/attachments/leaks/mefa//13bc706bb26015283906468c81fab2a7abfe2545/image328.jpg",
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/mefa"
+  },
+  {
+    "slug": "moe",
+    "titleEn": "Ministry of Energy",
+    "titleFa": "وزارت نیرو",
+    "category": "Government",
+    "leakType": "email",
+    "totalRecords": 23264,
+    "dateRange": {
+      "earliest": "2021-03-10",
+      "latest": "2021-03-14"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/moe"
+  },
+  {
+    "slug": "tbtb",
+    "titleEn": "Tehran Province Electricity Distribution Company",
+    "titleFa": "شرکت توزیع نیروی برق تهران بزرگ",
+    "category": "Government",
+    "leakType": "email",
+    "totalRecords": 290,
+    "dateRange": {
+      "earliest": "2021-01-06",
+      "latest": "2021-02-08"
+    },
+    "primaryLanguage": "fa",
+    "hasAttachments": true,
+    "attachmentHashFormat": "sha1",
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/tbtb"
+  },
+  {
+    "slug": "pmo",
+    "titleEn": "Ports and Maritime Organization",
+    "titleFa": "وزارت راه و شهرسازی سازمان بنادر و دریانوردی",
+    "category": "Economy",
+    "leakType": "table",
+    "totalRecords": 1904383,
+    "dateRange": {
+      "earliest": "2016-11-22",
+      "latest": "2016-12-17"
+    },
+    "primaryLanguage": "mixed",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/pmo"
+  },
+  {
+    "slug": "sanctions",
+    "titleEn": "Sanction-Imposed Entities",
+    "titleFa": "نهادهای تحت تحریم",
+    "category": "International Affairs",
+    "leakType": "table",
+    "totalRecords": 952,
+    "dateRange": {
+      "earliest": null,
+      "latest": null
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/sanctions"
+  },
+  {
+    "slug": "vessels",
+    "titleEn": "Vessels Archive",
+    "titleFa": "آرشیو کشتی‌ها",
+    "category": "Archives",
+    "leakType": "table",
+    "totalRecords": 429,
+    "dateRange": {
+      "earliest": null,
+      "latest": null
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/vessels"
+  },
+  {
+    "slug": "front-companies",
+    "titleEn": "Front Companies Archive",
+    "titleFa": "آرشیو شرکت‌های پوشش",
+    "category": "Archives",
+    "leakType": "table",
+    "totalRecords": 1169,
+    "dateRange": {
+      "earliest": null,
+      "latest": null
+    },
+    "primaryLanguage": "en",
+    "hasAttachments": false,
+    "attachmentHashFormat": null,
+    "sampleAttachmentUrl": null,
+    "specialFiles": null,
+    "sourceUrl": "https://wikiran.org/leaks/front-companies"
+  }
+]
