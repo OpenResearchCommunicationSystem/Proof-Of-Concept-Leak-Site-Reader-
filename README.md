@@ -15,18 +15,11 @@ This proof of concept is built around data published on **[wikiran.org](https://
 — a site that hosts leaked email archives from Iranian government ministries, state-owned
 enterprises, sanctioned financial institutions, and affiliated front companies.
 
-**The choice of this dataset has nothing to do with any animus toward Iran or its people.**
+**The choice of this dataset has nothing to do with any animus toward Iran, it's government, or its people.**
 Iranian email leaks were selected for a specific and practical reason: the content does not
 contain information that would be considered classified or sensitive in Western or
 English-speaking countries. This made it legally unambiguous material to use for building
-and demonstrating forensic tooling in a government-contractor context.
-
-We want to be direct about this: the Iranian people have suffered enormously under the
-regime whose internal communications appear in these leaks. The entities documented here —
-sanctions-evasion networks, currency manipulation operations, filtering committees, and
-oil-revenue front companies — represent the machinery of that regime, not its citizens.
-This tool exists to make that kind of institutional behaviour easier to trace and
-document, not to cast any shadow on Iran's people or culture.
+and demonstrating forensic tooling in western countries.
 
 The Leak Data Reader framework is fully source-agnostic. The same codebase can be pointed
 at any publicly available leaked email corpus regardless of national origin.
