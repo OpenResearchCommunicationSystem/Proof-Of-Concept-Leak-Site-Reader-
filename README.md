@@ -26,7 +26,7 @@ at any publicly available leaked email corpus regardless of national origin.
 
 ---
 
-## What it does
+## What we tested
 
 | Feature | Description |
 |---|---|
@@ -58,7 +58,7 @@ or `.eml` archive) can be added via the Upload page or the seed scripts in `scri
 
 ---
 
-## Architecture overview
+## Concept Test Architecture overview
 
 ```
 ┌─────────────────────────────────────────┐
@@ -85,7 +85,7 @@ required). Models: `gpt-4o` for thread analysis, identity clustering, and OCR;
 
 ---
 
-## Getting started
+## Concept Test Getting started
 
 ```bash
 # Install dependencies
@@ -102,12 +102,10 @@ pnpm --filter @workspace/api-server run dev
 pnpm --filter @workspace/wikiran run dev
 ```
 
-Default login after seeding: `wikiran_agent` / `wikiran2024!` (you will be prompted to
-change the password on first login).
 
 ---
 
-## Developer documentation
+## Concept Test Developer documentation
 
 All technical documentation lives in `docs/`:
 
@@ -127,7 +125,7 @@ Additional reference files in `docs/`:
 
 ---
 
-## Tech stack
+## Concept Test Tech stack
 
 | Layer | Technology |
 |---|---|
