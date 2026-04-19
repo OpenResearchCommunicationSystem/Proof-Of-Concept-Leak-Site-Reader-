@@ -44,9 +44,7 @@ at any publicly available leaked email corpus regardless of national origin.
 
 ## Sample datasets
 
-The repository ships with four synthetic sample datasets modelled on the types of
-organisations documented in WikiRan.org leaks. These give the tool something to work
-with out of the box without requiring a full data import:
+In order to prevent real entities from being used in demo data, The the demo repository contains four synthetic sample datasets modelled on the types of organisations documented in WikiRan.org leaks. These give the tool something to work with out of the box without requiring a full data import:
 
 | Dataset | Type | Description |
 |---|---|---|
